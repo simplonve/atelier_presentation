@@ -1,0 +1,39 @@
+body{
+	background-color: yellow;
+	color: grey;
+}
+img{
+
+	
+	vertical-align: top;
+	width: 100px;
+	height: 100px;
+}
+
+.enfant1 {
+	vertical-align: top;
+	display: inline-block;
+	width: 200px;
+	height: 500px;
+	
+	background-color: green;
+	
+}
+	
+.enfant2 {	
+
+	vertical-align: top;
+	color: white;
+	display: inline-block;
+	width: 20%;
+	height: 2%;
+	background-color: purple;
+}
+.enfant3 {	
+	display: inline-block;
+	width: 20%;
+	height: 2%;
+	background-color: red;
+	
+}
+

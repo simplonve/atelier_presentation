@@ -1,0 +1,18 @@
+.body_bleu {
+	border: solid 2px blue;
+	position: relative;
+
+}
+.parent_vert {
+	position: absolute;
+	top: 0;
+	left: 0;
+	border: solid 2px green;
+	height: 100px;
+}
+.enfant_rouge {
+	position: absolute;
+	border: solid 2px red;
+	top: 5px;
+	left: 200px;
+}
